@@ -16,8 +16,8 @@ const FeedbackCard = () => {
             {/* <img className='h-8' src={quotationMark} /> */}
       </div>
 
-      <div className='py-8 dir-rtl'>
-        <h3 className='text-sm md:text-lg text-justify leading-9'>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است </h3>
+      <div className='py-8 dir-rtl leading-9'>
+        <span className='text-sm md:text-lg text-justify leading-9'>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است </span>
       </div>
     </div>
   )
